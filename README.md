@@ -34,7 +34,7 @@ A comprehensive script to transform a fresh Kali Linux installation into a fully
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/kali-setup.git
+   git clone https://github.com/wontfallo/kali-setup.git
    cd kali-setup
    ```
 
